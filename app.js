@@ -11,7 +11,7 @@ function translateText(text){
 
 function errorHandler(error){
     console.log("error Occured",error)
-    alert("Try again sometime, server having minion meeting for Despicable me 5")
+    alert("Try again after an hour, server having minion meeting for Despicable me 5, This API is not free hence you can only translate 10 times in an hour")
 
 }
 
